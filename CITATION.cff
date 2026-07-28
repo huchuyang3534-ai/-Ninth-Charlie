@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, please cite the accompanying manuscript."
+title: "Acoustic-Guided Generative Assimilation for Estimating Ocean-Interior Structure From Surface and Acoustic Observations"
+authors:
+  - family-names: Hu
+    given-names: Ning
+  - family-names: Hu
+    given-names: Chuyang
+  - family-names: Sun
+    given-names: Jiayan
+  - family-names: Li
+    given-names: Shuqun
+year: 2026
+type: article
+repository-code: "https://github.com/huchuyang3534-ai/-Ninth-Charlie"
+license: MIT

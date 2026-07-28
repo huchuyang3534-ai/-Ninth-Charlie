@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# LaTeX build products
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+paper/*.synctex.gz
+paper/render_check/
+
+# Local OS/editor files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# Large raw archives should not be committed here.
+raw/
+raw_data/
+downloads/
